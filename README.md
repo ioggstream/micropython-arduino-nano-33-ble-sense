@@ -1,21 +1,12 @@
-# Python Cookiecutter repository
+# MicroPython experiments
 
-Python template repository including boilerplate workflows and CI.
+Micropython experiments with Arduino Nano 33 ble sense.
 
-```bash
-.bandit.yaml
-.pre-commit-config.yaml
-.github
-└── workflows
-```
-
-## Creating a new project
-
-The name of a new project should be descriptive and short.
-The repository name should be in [kebab-case](https://it.wikipedia.org/wiki/Kebab_case), string, e.g., `python-cookiecutter`,
-`api-onboarding`.
-Avoid CamelCase or underscores: you can use them for OOP classes or properties.
-
+1. Install micropython on Arduino using
+   the https://labs.arduino.cc/en/labs/micropython-installer
+2. Copy the file in [libs/](libs/) on your board using the
+   
+   
 ## Contributing
 
 Please, see [CONTRIBUTING.md](CONTRIBUTING.md) for more details on:

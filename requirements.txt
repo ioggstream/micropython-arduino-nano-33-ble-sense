@@ -1,0 +1,6 @@
+#
+# Compress .py files for micropython.
+#
+mpy-cross
+
+# https://github.com/micropython/micropython-lib/blob/master/micropython/drivers/sensor/lps22h/lps22h.py
