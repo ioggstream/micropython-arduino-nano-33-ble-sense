@@ -4,7 +4,7 @@ Micropython experiments with Arduino Nano 33 ble sense.
 
 1. Install micropython on Arduino using
    the https://labs.arduino.cc/en/labs/micropython-installer
-2. Copy the file in [libs/](libs/) on your board using the
+2. Compact the files in [libs/](libs/) using mpr
    
    
 ## Contributing
